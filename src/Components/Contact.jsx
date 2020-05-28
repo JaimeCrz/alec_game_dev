@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import Fade from 'react-reveal/Fade';
 
 class Contact extends Component {
    render() {
@@ -14,24 +15,26 @@ class Contact extends Component {
 
       return (
          <section id="contact">
-            <div className="row section-head">
-               <h1>Get In Touch.</h1>
-               <div className="row">
-                  <p className="lead">{message}</p>
+            <Fade bottom cascade>
+               <div className="row section-head">
+                  <h1>Get In Touch.</h1>
+                  <div className="row">
+                     <p className="lead">{message}</p>
+                  </div>
                </div>
-            </div>
 
-            <div className="row">
-               <div className="widget widget_contact">
-                  <h4>Address and Phone</h4>
-                  <p className="address">
-                     {name}<br />
-                     {street} <br />
-                     {city}, {zip}<br />
-                     <span>{phone}</span>
-                  </p>
+               <div className="row">
+                  <div className="widget widget_contact">
+                     <h4>Address and Phone</h4>
+                     <p className="address">
+                        {name}<br />
+                        {street} <br />
+                        {city}, {zip}<br />
+                        <span>{phone}</span>
+                     </p>
+                  </div>
                </div>
-            </div>
+            </Fade>
          </section>
       );
    }
