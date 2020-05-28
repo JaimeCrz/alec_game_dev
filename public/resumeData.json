@@ -109,34 +109,28 @@
   "portfolio":{
     "projects": [
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"canadian-wanderlust.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "title":"Acog class 1",
+        "category":"My design on a Acog for an FPS game.",
+        "image":"acog_shight.jpg",
+        "url":""
       },
       {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"fury-fighting-gear.jpg",
-        "url":"http://www.timbakerdev.com"
+        "title":"Aranknia",
+        "category":"Drawing design made for Digital Extremes",
+        "image":"aranknia_warframe.jpg",
+        "url":""
       },
       {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"original-thai-food.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+        "title":"Minion",
+        "category":"A 3d design part of a collaboration for an S. Wars RPS game.",
+        "image":"char_ref.png",
+        "url":""
       },
       {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"resume-website.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"smirkspace.jpg",
-        "url":"http://www.smirkspace.com"
+        "title":"Vampirese",
+        "category":"A character made for a independent client.",
+        "image":"character_v1.png",
+        "url":""
       }
     ]
   }
