@@ -20,7 +20,7 @@ class Footer extends Component {
 
            <ul className="copyright">
               <li>&copy; Copyright 2020 Alexander Pettersson</li>
-              <li>Design by <a title="Styleshout" href="https://jaimecruz.dev/">Jaime Cruz</a></li>
+              <li>Design by <a title="JC.Developer" href="https://jaimecruz.dev/">Jaime Cruz</a></li>
            </ul>
 
         </div>
