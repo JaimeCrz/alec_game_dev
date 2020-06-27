@@ -57,30 +57,30 @@
     "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
     "education":[
       {
-        "school":"University?",
-        "degree":"Masters in Beer tasting",
-        "graduated":"April 2007",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"Guinness World record in Horizontal laying",
+        "degree":"Mastered in horizontal laying.",
+        "graduated":"2000",
+        "description":"Perfectioned the horizontal technique by many years of enforce and experience."
       },
       {
-        "school":"School #1 Maybe College?",
-        "degree":"What did you study 101",
-        "graduated":"March 2003",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"LBS Kreativa Gymnasiet",
+        "degree":"Graphic Design",
+        "graduated":"2020",
+        "description":"Worked in large projects which allowed me to develop my artistic and techniques in the world of Game design."
       }
     ],
     "work":[
       {
-        "company":"Awesome Design Studio",
-        "title":"Senior UX God ",
-        "years":"March 2010 - Present",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"Pinchos A.B",
+        "title":"WaterBender. ",
+        "years":"Present",
+        "description":"Waterbender soldier in the Pinchos army, Mastered the tsunami technique."
       },
       {
-        "company":"Super Cool Studio",
-        "title":"Junior bug fixer",
-        "years":"March 2007 - February 2010",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"Your future game design studio!! Work hard for it =)",
+        "title":"Junior web developer.",
+        "years":"2022",
+        "description":"Drawing, drawing, drawing. More drawing drawing drawing."
       }
     ],
     "skills":[
