@@ -57,12 +57,6 @@
     "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
     "education":[
       {
-        "school":"Guinness World record in Horizontal laying",
-        "degree":"Mastered in horizontal laying.",
-        "graduated":"2000",
-        "description":"Perfectioned the horizontal technique by many years of enforce and experience."
-      },
-      {
         "school":"LBS Kreativa Gymnasiet",
         "degree":"Graphic Design",
         "graduated":"2020",
@@ -70,12 +64,6 @@
       }
     ],
     "work":[
-      {
-        "company":"Pinchos A.B",
-        "title":"WaterBender. ",
-        "years":"Present",
-        "description":"Waterbender soldier in the Pinchos army, Mastered the tsunami technique."
-      },
       {
         "company":"Your future game design studio!! Work hard for it =)",
         "title":"Junior web developer.",
